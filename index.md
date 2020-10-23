@@ -1,35 +1,14 @@
 ## Welcome to SSK Homes
 
-We have beautiful one BHK and two BHK houses for rent. The home is located in beautiful quite location in Tiruchengudue.
+Welcome to The SSK homes, a community of luxury homes nestled in the middle of one of the best residentail family neighborhoods in the City of Tiruchengodu. There is simply nothing like this property. One can have all the benefits of a gorgeous single-family neighborhood without any of the pressure of ownership. 
 
-### Call for more information
+With urban design, private separate homes, views of Mountain, covered parking, beautiful landscaping and brand-new construction The SSK homes is exceptional. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+After work get on your bike head into Town for dinner and a movie. Blocks away take a stroll, go for a run or bike for miles along the beautiful greenary. 
 
-```markdown
-Syntax highlighted code block
+This incredible property is in the heart of it all! Fabulous restaurants, gyms, schools, colleges and the temple are all just minutes away. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ssk-homes/rent/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Looking to rent? call us and schedule an appointment for viewing and we’ll help you sort it out.
