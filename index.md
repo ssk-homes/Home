@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to SSK Homes
 
-You can use the [editor on GitHub](https://github.com/ssk-homes/rent/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We have beautiful one BHK and two BHK houses for rent. The home is located in beautiful quite location in Tiruchengudue.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Call for more information
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
