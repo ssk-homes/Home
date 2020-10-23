@@ -1,6 +1,6 @@
 ## Welcome to SSK Homes
 
-Welcome to The SSK homes, a community of luxury homes nestled in the middle of one of the best residentail family neighborhoods in the City of Tiruchengodu. There is simply nothing like this property. One can have all the benefits of a gorgeous single-family neighborhood without any of the pressure of ownership. 
+Welcome to The SSK homes, a community of luxury homes nestled in the middle of one of the best residential family neighborhoods in the City of Tiruchengodu. There is simply nothing like this property. One can have all the benefits of a gorgeous single-family neighborhood without any of the pressure of ownership. 
 
 With urban design, private separate homes, views of Mountain, covered parking, beautiful landscaping and brand-new construction The SSK homes is exceptional. 
 
